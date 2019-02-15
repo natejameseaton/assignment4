@@ -1,0 +1,33 @@
+Thu Feb 07 17:48:59 EST 2019 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Thu Feb 07 17:48:59 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0168-ca26-5fa4-ffffa36610c6 
+on database directory C:\Users\c0711874\Documents\NetBeansProjects\NateBlog\blog with class loader sun.misc.Launcher$AppClassLoader@60e53b93 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_45/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Program Files\Java\jdk1.8.0_45\db
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=C:\Users\c0711874\Documents\NetBeansProjects\NateBlog
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Feb 07 17:49:07 EST 2019:
+Shutting down instance a816c00e-0168-ca26-5fa4-ffffa36610c6 on database directory C:\Users\c0711874\Documents\NetBeansProjects\NateBlog\blog with class loader sun.misc.Launcher$AppClassLoader@60e53b93 
+Thu Feb 07 17:49:07 EST 2019 Thread[DRDAConnThread_2,5,main] (DATABASE = blog), (DRDAID = {2}), Database 'blog' shutdown.
+----------------------------------------------------------------
+Thu Feb 07 17:51:17 EST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a65c80ac-0168-ca26-5fa4-ffffa36610c6 
+on database directory C:\Users\c0711874\Documents\NetBeansProjects\NateBlog\blog with class loader sun.misc.Launcher$AppClassLoader@60e53b93 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_45/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Program Files\Java\jdk1.8.0_45\db
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=C:\Users\c0711874\Documents\NetBeansProjects\NateBlog
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Feb 07 19:28:23 EST 2019: Shutting down Derby engine
